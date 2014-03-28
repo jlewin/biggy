@@ -66,6 +66,8 @@
     <Compile Include="Extensions\ObjectExtensions.cs" />
     <Compile Include="DBTable.cs" />
     <Compile Include="JSON\BiggyListSerializer.cs" />
+    <Compile Include="JSON\DirectoryDataStore.cs" />
+    <Compile Include="JSON\FileDataStore.cs" />
     <Compile Include="Postgres\PGDocumentList.cs" />
     <Compile Include="Postgres\PGList.cs" />
     <Compile Include="Postgres\PGTable.cs" />
